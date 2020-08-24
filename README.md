@@ -10,3 +10,7 @@ you must trust yourself abilities and capable to learn anything (learning relate
 ### 2.how to work with it?
 ### 3.how to viwe your eventually work?
 #### would you please follow the the hyper-link[ reading notes ](https://zainabalkhdour.github.io/reading-notes/)
+
+# note 
+i am zainab alkhdour,22 years old, software development student and it's my first step of `the journey of million miles`
+here's my GitHub profile: (https://github.com/zainabalkhdour), follow my please.
