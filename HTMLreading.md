@@ -1,6 +1,6 @@
 # What is the project plan we follow to develop your own site
 
-**When you decide to create a new web site you should look at these concerns: **
+**When you decide to create a new web site you should look at these concerns:**
 
 1-what will attract consumer to the web site and put expectation of what they want to read.
 2- How to organize information so that visitors can find what they are looking for.
