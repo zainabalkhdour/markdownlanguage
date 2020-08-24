@@ -2,11 +2,11 @@
 
 **When you decide to create a new web site you should look at these concerns:**
 
-1-what will attract consumer to the web site and put expectation of what they want to read.
-2- How to organize information so that visitors can find what they are looking for.
-3-decide the way you will coordinate content .
-4- you should draw web site wireframes (header\main\footer\margins).
-5-ask someone who work in internal design to give your ideas about the .presentation especially visual hierarchy /prioritizing content/ grouping similarities.
+1. what will attract consumer to the web site and put expectation of what they want to read.
+2. How to organize information so that visitors can find what they are looking for.
+3. decide the way you will coordinate content .
+4. you should draw web site wireframes (header\main\footer\margins).
+5. ask someone who work in internal design to give your ideas about the .presentation especially visual hierarchy /prioritizing content/ grouping similarities.
 
 # How you are going to satisfy you consumer need and wants?
 ***`By present the previous concerns in the proper manner which consumer prefer lets repeat them:`***
